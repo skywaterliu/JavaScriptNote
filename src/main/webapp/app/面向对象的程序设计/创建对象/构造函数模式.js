@@ -1,5 +1,5 @@
 /**
- * constructor_pattern
+ * constructor_pattern  构造函数模式
  */
 
 // (function () {

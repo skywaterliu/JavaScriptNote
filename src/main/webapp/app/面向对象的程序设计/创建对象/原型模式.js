@@ -1,5 +1,5 @@
 /**
- * prototype_pattern
+ * prototype_pattern 原型模式
  */
 (function () {
     /**
