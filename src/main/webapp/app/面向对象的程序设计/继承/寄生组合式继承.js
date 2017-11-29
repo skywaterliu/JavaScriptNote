@@ -13,7 +13,7 @@
     }
 
     function Student(name, age, grade) {
-        Person.call(this);
+        Person.call(this,name,age);
         this.grade = grade;
     }
 
